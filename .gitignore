@@ -1,2 +1,5 @@
 #python configuration files
 *.pyc
+
+# Files with materials from lections and seminars
+*.pdf
