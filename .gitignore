@@ -3,3 +3,6 @@
 
 # Files with materials from lections and seminars
 *.pdf
+
+# File with timetable of course
+*.xlsx
